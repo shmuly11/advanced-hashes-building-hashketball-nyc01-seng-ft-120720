@@ -1,2 +1,4 @@
 # Write your code here!
-def game_hash (game)
+def game_hash 
+  hashketball = {}
+end
